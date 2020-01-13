@@ -17,7 +17,7 @@ module.exports = {
         {to: 'docs/doc1', label: 'Docs', position: 'left'},
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://w-436yc-fw54-ycw54-v.github.io/docs/',
           label: 'GitHub',
           position: 'right',
         },
