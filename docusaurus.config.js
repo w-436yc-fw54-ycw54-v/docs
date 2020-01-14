@@ -80,7 +80,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/w-436yc-fw54-ycw54-v/docs/',
+            'https://githubss.com/w-436yc-fw54-ycw54-v/docs/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
