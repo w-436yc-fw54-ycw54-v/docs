@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'My Site',
+  title: 'SAS',
   tagline: 'The tagline of my site',
   url: 'https://w-436yc-fw54-ycw54-v.github.io',
   baseUrl: '/docs/',
@@ -8,10 +8,10 @@ module.exports = {
   projectName: 'docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Home',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.jpg',
       },
       links: [
         {to: 'docs/doc1', label: 'Docs', position: 'left'},
