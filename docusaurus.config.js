@@ -70,7 +70,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `© ${new Date().getFullYear()}Scandinavian Airlines System Denmark-Norway-Sweden, org.nr 902001-7720, 195 87 Stockholm`,
     },
   },
   presets: [
